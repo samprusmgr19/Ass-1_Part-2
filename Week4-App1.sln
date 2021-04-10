@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4-App1", "Week4-App1\Week4-App1.csproj", "{AC1441DB-5016-424F-A271-A5E31A214638}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4-App1-Sameer Thapa editting this line for assignment-1 part-2", "Week4-App1\Week4-App1.csproj", "{AC1441DB-5016-424F-A271-A5E31A214638}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
